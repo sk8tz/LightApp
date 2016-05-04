@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Light App</string>
+    <string name="switch_light_text">LIGHT SWITCH</string>
+    <string name="battery_text">BATTERY</string>
+</resources>
